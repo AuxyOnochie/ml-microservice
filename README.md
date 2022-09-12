@@ -1,5 +1,5 @@
 
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/ebunola/operationalize-ml-microservices-kubernetes/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Uceeyjudy/ebunola/operationalize-ml-microservices-kubernetes/tree/master)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/AuxyOnochie/ml-microservice/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/AuxyOnochie/ml-microservice/tree/master)
 ## Project Overview
 
 As a DevOps professional, this project tests my ability to work with a data science team that has built a Flask application that takes payload to predicts housing prices in Botson. I containerized using Docker and Kubernetes, making it a completely scalable machine learning service that is available via Flask API.
